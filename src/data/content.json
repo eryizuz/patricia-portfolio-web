@@ -1,0 +1,270 @@
+{
+  "videoDefault": "/videos/test.mp4",
+  "palette": {
+    "options": [
+      { "label": "Morado", "value": "" },
+      { "label": "Rojo", "value": "red" }
+    ]
+  },
+  "cover": {
+    "title": "Portafolio",
+    "name": "Patricia Reverón",
+    "subtitle": "Social Media Manager y especialista en growth. Contenido, publicidad y automatización con resultados medibles.",
+    "edition": "EDICIÓN 2026",
+    "videos": [null, null, null]
+  },
+  "toolbox": {
+    "ghost": "Mi Toolbox",
+    "bars": [
+      { "label": "Gestión de redes sociales", "width": 62 },
+      { "label": "Estrategia de contenido y copywriting", "width": 80 },
+      { "label": "Publicidad paga · Meta, LinkedIn, Google", "width": 74 },
+      { "label": "Lead generation y automatización", "width": 86 },
+      { "label": "Edición de video y diseño", "width": 68 },
+      { "label": "Analítica y reportes", "width": 56 }
+    ],
+    "tools": [
+      "Meta Ads",
+      "LinkedIn Ads",
+      "Google Ads",
+      "Google Analytics",
+      "Hootsuite",
+      "HubSpot CRM",
+      "Kommo CRM",
+      "Zoho CRM",
+      "ManyChat",
+      "LinkedIn Helper",
+      "Octopus CRM",
+      "GetResponse",
+      "Bots de Telegram",
+      "Notion",
+      "ClickUp",
+      "Trello",
+      "Asana",
+      "Canva",
+      "CapCut",
+      "Filmora",
+      "After Effects",
+      "Renderforest",
+      "WordPress",
+      "Shopify"
+    ]
+  },
+  "about": {
+    "title": ["Sobre", "Mí"],
+    "player": {
+      "photo": "/foto-patricia.jpg",
+      "alt": "Patricia Reverón",
+      "name": "Patricia Reverón",
+      "role": "Social Media Manager",
+      "progress": 58,
+      "volume": 86,
+      "currentTime": "1:53",
+      "remainingTime": "−1:20"
+    },
+    "paragraphs": [
+      "Soy **social media manager estratégica** con **más de 5 años de experiencia** haciendo crecer la presencia de marcas muy distintas: desde telecomunicaciones y eSports hasta coaching y tecnología B2B.",
+      "No solo publico contenido: diseño estrategias que generan conversación, construyen comunidad y traen clientes. **Combino creatividad con un análisis riguroso de métricas** para optimizar cada campaña."
+    ]
+  },
+  "experience": {
+    "title": "Experiencia",
+    "columns": [
+      {
+        "period": "2020 – Hoy",
+        "heading": "Community manager, automatización y video · Mipto Tech, SirSelling, Anmac, Shareity",
+        "text": "Publicaciones diarias, reels, publicidad en Facebook Business, prospección con LinkedIn Helper y Octopus, automatización en HubSpot y atención al cliente."
+      },
+      {
+        "period": "2020 – 2021",
+        "heading": "Branding, bots y leads · Coaches JennyJose, Prospecta B2B",
+        "text": "Marca y presencia digital completa, guiones y edición de video, bots de Telegram y reportes semanales de captación de leads."
+      },
+      {
+        "period": "Más proyectos",
+        "heading": "Redes y leads · Movilnet-e, LinkedDNA",
+        "text": "Gestión integral de cuatro plataformas con anuncios por evento y reportes mensuales, y captación de 3.000 a 4.000 prospectos diarios."
+      }
+    ],
+    "skills": {
+      "featured": ["Disciplina", "Adaptabilidad", "Pensamiento analítico"],
+      "other": [
+        "Comunicación asertiva",
+        "Toma de decisiones",
+        "Trabajo en equipo",
+        "Empatía",
+        "Proactividad"
+      ]
+    }
+  },
+  "contentSlide": {
+    "title": "Creación de contenido, producción y edición de video »",
+    "paragraph": "Guion, grabación, edición y entrega. Manejo el ciclo completo: historias interactivas, reels, videos para YouTube y notas para blog.",
+    "tools": ["Filmora", "After Effects", "CapCut", "Renderforest", "Canva"],
+    "monitor": null,
+    "phones": [null, null],
+    "caption": "Reel · video de prueba"
+  },
+  "cases": {
+    "title": "Casos de éxito",
+    "intro": [
+      "Más de **35.9k seguidores** en Instagram con Coaches JennyJose.",
+      "**3–4k prospectos al día** con automatización en LinkedDNA.",
+      "Ocho marcas con estrategia, anuncios, video y reportes propios."
+    ],
+    "items": [
+      {
+        "name": "Coaches JennyJose",
+        "metric": "35.9k en Instagram",
+        "bullets": [
+          "Guiones y edición de video para coaching y desarrollo personal.",
+          "Marca y presencia digital en todas las redes, con copy y estrategia.",
+          "Bots de Telegram con menús y recolección de datos."
+        ]
+      },
+      {
+        "name": "LinkedDNA",
+        "metric": "3–4k prospectos al día",
+        "bullets": [
+          "Captación de clientes potenciales a gran escala.",
+          "Bases de datos masivas organizadas para el embudo de ventas.",
+          "Automatización con LinkedIn Helper y Octopus CRM."
+        ]
+      },
+      {
+        "name": "Movilnet-e",
+        "metric": "4 plataformas",
+        "bullets": [
+          "Campañas pagas optimizadas para los eventos de la marca.",
+          "Ciclo completo de contenido, de historias a notas del blog de eSports.",
+          "Reportes mensuales de rendimiento."
+        ]
+      },
+      {
+        "name": "Mipto Tech",
+        "metric": "366 en Instagram",
+        "bullets": [
+          "Publicaciones diarias, historias interactivas y reels.",
+          "Publicidad con Facebook Business.",
+          "Coordinación del equipo de diseño."
+        ]
+      },
+      {
+        "name": "SirSelling",
+        "metric": "236 en Instagram",
+        "bullets": [
+          "Prospección con LinkedIn Helper y automatización en HubSpot CRM.",
+          "Listas, formularios, bot para landing page y customer journey."
+        ]
+      },
+      {
+        "name": "Anmac Global Consulting",
+        "metric": "53 en Facebook",
+        "bullets": [
+          "Prospección en LinkedIn con Octopus CRM.",
+          "Videos para la parrilla de contenido de YouTube."
+        ]
+      },
+      {
+        "name": "Shareity",
+        "metric": "776 en Instagram",
+        "bullets": [
+          "Atención a clientes desde la bandeja de HubSpot CRM.",
+          "Prospección en LinkedIn con Octopus CRM."
+        ]
+      },
+      {
+        "name": "Prospecta B2B",
+        "metric": "Reportes semanales",
+        "bullets": [
+          "Búsqueda de clientes con LinkedIn Helper.",
+          "Reporte semanal de captación de leads y su estado."
+        ]
+      }
+    ]
+  },
+  "accounts": {
+    "title": "Reels y cuentas",
+    "subtitle": "Perfiles de Instagram que he gestionado. Los videos son de prueba y se reemplazan por los reels reales.",
+    "viewLabel": "Ver en Instagram",
+    "items": [
+      { "handle": "movilnet_e", "video": null },
+      { "handle": "somosjennyjose", "video": null },
+      { "handle": "miptotech", "video": null },
+      { "handle": "sksgdlprime", "video": null },
+      { "handle": "entredijesmx", "video": null },
+      { "handle": "inteliteam.mx", "video": null },
+      { "handle": "peckers.mx", "video": null },
+      { "handle": "lavanda.spatherapy", "video": null },
+      { "handle": "annstone.jewelry", "video": null },
+      { "handle": "alexlavin11", "video": null },
+      { "handle": "1driveinc", "video": null },
+      { "handle": "nexsourcing", "video": null },
+      { "handle": "keratrendoficial", "video": null },
+      { "handle": "farmtobody", "video": null }
+    ]
+  },
+  "analytics": {
+    "title": "Analítica y datos",
+    "paragraph": "Interpreto métricas clave para decidir y mejorar el ROI. Entrego reportes mensuales que muestran el crecimiento y qué ajustar en la siguiente campaña.",
+    "monitors": [
+      {
+        "title": "Instagram · JennyJose",
+        "value": "35.9k",
+        "path": "M0 40L20 34 40 36 60 24 80 26 100 12 120 4",
+        "image": null
+      },
+      {
+        "title": "Facebook · JennyJose",
+        "value": "19.8k",
+        "path": "M0 38L20 36 40 30 60 32 80 20 100 18 120 8",
+        "image": null
+      },
+      {
+        "title": "Prospectos por día",
+        "value": "3–4k",
+        "path": "M0 30L20 14 40 28 60 10 80 24 100 8 120 16",
+        "image": null
+      },
+      {
+        "title": "Marcas y cuentas",
+        "value": "19",
+        "path": "M0 40L20 36 40 30 60 28 80 20 100 14 120 6",
+        "image": null
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hablemos",
+    "paragraph": "Cuéntame qué necesitas y te propongo un plan con objetivos y métricas claras.",
+    "kpis": [
+      { "value": "+5", "label": "años de experiencia" },
+      { "value": "19", "label": "marcas y cuentas" },
+      { "value": "35.9k", "label": "seguidores en IG de JennyJose" }
+    ],
+    "laptop": {
+      "heading": "CONTACTO",
+      "links": [
+        {
+          "icon": "@",
+          "text": "patriciareveron15@gmail.com",
+          "label": "Correo",
+          "href": "mailto:patriciareveron15@gmail.com"
+        },
+        {
+          "icon": "W",
+          "text": "+58 424 150 6797",
+          "label": "WhatsApp",
+          "href": "https://wa.me/584241506797"
+        },
+        {
+          "icon": "in",
+          "text": "Patricia Reverón",
+          "label": "LinkedIn",
+          "href": "https://www.linkedin.com/in/patricia-rever%C3%B2n92a8631b0/"
+        }
+      ]
+    }
+  },
+  "footer": "© 2026 Patricia Reverón · Referencias disponibles bajo solicitud"
+}
